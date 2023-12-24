@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+A = 10101010, B = 01100110, Cin = 0, Sum = 00010000, Cout = 1
+$finish called at time : 20 ns : File "C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstlstaj/project_6_gstlstaj.srcs/sim_1/new/tb_ripplecarry_adder_better_gstl.v" Line 55

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_ripplecarry_adder_gstl_behav" "xil_defaultlib.tb_ripplecarry_adder_gstl" "xil_defaultlib.glbl" -log "elaborate.log" 

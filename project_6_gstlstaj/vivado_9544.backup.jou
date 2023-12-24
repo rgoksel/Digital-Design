@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Nov 26 22:12:51 2023
+# Process ID: 9544
+# Current directory: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstlstaj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9568 C:\Users\rabia\OneDrive\Masast\vhdl\project_6_gstlstaj\project_6_gstlstaj.xpr
+# Log file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstlstaj/vivado.log
+# Journal file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstlstaj\vivado.jou
+# Running On: the_gokcell, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 12789 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstlstaj/project_6_gstlstaj.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_ripplecarry_adder_gstl.tcl
+close_sim
