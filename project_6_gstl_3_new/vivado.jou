@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Nov 29 13:01:48 2023
+# Process ID: 13708
+# Current directory: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_3_new
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13548 C:\Users\rabia\OneDrive\Masast\vhdl\project_6_gstl_3_new\project_6_gstl_3_new.xpr
+# Log file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_3_new/vivado.log
+# Journal file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_3_new\vivado.jou
+# Running On: the_gokcell, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 12789 MB
+#-----------------------------------------------------------
+start_guioopen_project C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_3_new/project_6_gstl_3_new.xpruupdate_compile_order -fileset sources_1synth_design -rtl -rtl_skip_mlo -name rtl_1

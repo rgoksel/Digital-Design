@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Initial State - LED Value: 01
+LED Value: 02
+LED Value: 03
+LED Value: 04
+LED Value: 05
+LED Value: 06
+LED Value: 07
+LED Value: 08
+LED Value: 09
+LED Value: 0a
+LED Value: 0b
+LED Value: 0c
+LED Value: 0d
+LED Value: 0e
+LED Value: 0f
+LED Value: 10
+LED Value: 11
+LED Value: 12
+LED Value: 13
+LED Value: 14
+LED Value: 15
+$finish called at time : 210 ns : File "C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_3_new/project_6_gstl_3_new.srcs/sim_1/new/tb_counter.v" Line 55
