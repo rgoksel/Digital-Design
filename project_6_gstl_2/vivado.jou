@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Tue Nov 28 22:12:38 2023
+# Process ID: 8800
+# Current directory: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16668 C:\Users\rabia\OneDrive\Masast\vhdl\project_6_gstl_2\project_6_gstl_2.xpr
+# Log file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_2/vivado.log
+# Journal file: C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_2\vivado.jou
+# Running On: the_gokcell, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 12789 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/rabia/OneDrive/Masast/vhdl/project_6_gstl_2/project_6_gstl_2.xpr
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top twos_complement_subtractor_gstl [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_design
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+close_design
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top ALU [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
